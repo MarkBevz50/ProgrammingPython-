@@ -1,0 +1,18 @@
+id,name,material,price
+1,Screw,Metal,0.5
+2,Wood Panel,Wood,10.0
+3,Glass,Glass,25.0
+4,Hinge,Metal,2.5
+5,Plastic Cap,Plastic,1.0
+6,Leg,Wood,15.0
+7,Fabric,Fabric,12.0
+8,Seat Cushion,Foam,8.0
+9,Metal Frame,Metal,20.0
+10,Drawer,Wood,30.0
+11,Glass Top,Glass,40.0
+12,Armrest,Wood,7.0
+13,Table Leg,Metal,18.0
+14,Backrest,Fabric,9.0
+15,Cushion Cover,Cotton,5.0
+16,Nail,Steel,0.25
+17,Wire,Cooper,2.0

@@ -1,0 +1,7 @@
+1,Apple,Fruit,0.5,100
+2,Banana,Fruit,0.3,150
+3,Milk,Dairy,1.2,50
+4,Bread,Bakery,2.5,30
+5,Eggs,Dairy,0.2,200
+6,Pork,Meat,3,130
+7,Whiskey,Alcohol,20,10

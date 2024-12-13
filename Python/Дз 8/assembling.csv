@@ -1,0 +1,18 @@
+assembling_date,order_number,id_component,status
+2024-11-20,101,1,Completed
+2024-11-20,101,2,Completed
+2024-11-20,101,3,Completed
+2024-11-21,102,4,Completed
+2024-11-21,102,5,In Process
+2024-11-22,103,6,Completed
+2024-11-22,103,7,Completed
+2024-11-23,104,8,In Process
+2024-11-23,104,9,In Process
+2024-11-24,105,10,Completed
+2024-11-25,106,11,Completed
+2024-11-26,107,12,In Process
+2024-11-26,107,13,Completed
+2024-11-27,108,14,Completed
+2024-11-27,108,15,Completed
+2024-11-28,103,9,Completed
+2024-11-28,105,7,In Process

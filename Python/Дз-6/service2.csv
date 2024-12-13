@@ -1,0 +1,5 @@
+station_id,service_date,fuel_type,fuel_quantity
+1,2023-10-04,Diesel,300
+2,2023-10-02,A_92,100
+3,2023-10-03,PULLS_95,60
+4,2023-10-05,PULLS_Diesel,90
